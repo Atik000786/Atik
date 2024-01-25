@@ -1,2 +1,4 @@
 # Atik
-Author-Atikur Rehman
+
+Author - Atikur Rehman (devloper)
+
